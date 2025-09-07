@@ -39,7 +39,7 @@ When I’m not building scalable systems or designing databases, I enjoy:
 
 #### Distributed Systems & Databases
 - **Message Queues**: Kafka, RabbitMQ
-- **Databases**: Postgres, Redis, ClickHouse
+- **Databases**: Postgres, Redis, ClickHouse, MongoDB
 - **Change Data Capture**: Debezium
 - **ETL Pipelines**: Airflow, Airbyte
 
@@ -61,9 +61,7 @@ _"Build systems that empower people, abstract complexity, and scale effortlessly
 ---
 
 ### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/shaiknoorullah)
-- [Twitter](https://twitter.com/shaiknoorullah)
-- [Website/Blog](#) *(Add link if available)*
+- [email](mailto:shaiknooru247@gmail.com)
 
 ---
 
